@@ -62,12 +62,12 @@ select {
 
 @font-face {
     font-family: Avenir;
-    src: url("../../CV/assets/fonts/AvenirBlack.otf");
+    src: url("../assets/fonts/AvenirBlack.otf");
 }
 
 @font-face {
     font-family: IntroCondBlack;
-    src: url("../../CV/assets/fonts/IntroCondBlack.otf");
+    src: url("../assets/fonts/IntroCondBlack.otf");
 }
 
 html,
